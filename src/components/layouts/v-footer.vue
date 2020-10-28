@@ -3,7 +3,7 @@
         <router-link :to="{name: 'contacts'}">
            <span>1</span>
         </router-link>
-        <router-link :to="{name: 'contacts'}">
+        <router-link :to="{name: 'chats'}">
            <span>2</span>
         </router-link>
         <router-link :to="{name: 'contacts'}">
